@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea2.1</string>
+    <string name="txt_nombre">nombre</string>
+    <string name="txt_apellido">apellido</string>
+    <string name="txt_correo">correo</string>
+    <string name="txt_edad">edad</string>
+    <string name="btn_text_submit">submit</string>
+    <string name="txt_btn_share">compartir</string>
+</resources>
